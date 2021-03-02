@@ -4,7 +4,7 @@ Click the icon above to deploy.
 
 Optional protocols: vmess or vless.
 
-Default ID: 2bea1837-52c1-4548-b4ea-1ea554afbfc1
+Default ID: 1111111111111111111111
 
 Address: appname.herokuapp.com
 

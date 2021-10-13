@@ -1,15 +1,15 @@
 {
-    "name": "bianyichong",
+    "name": "xray-heroku",
     "description": "deploy xray to heroku",
     "keywords": ["xray"],
     "env": {
         "UUID": {
             "description": "xray UUID",
-            "value": "2bea1837-52c1-4548-b4ea-1ea554afbfc1"        
+            "value": "8a6c8c3e-6cec-453d-87ff-6f45a3b51d49"        
         },
         "PROTOCOL": {
             "description": "xray protocol, vmess or vless",
-            "value": "vmess"
+            "value": "vless"
         }
     },
     "website": "https://starts.sh",
